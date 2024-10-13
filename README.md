@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yago</h1>
-<h3 align="center">A SaaS enthusiast & software developer.</h3>
 
 - 🔭 I’m currently working on [DevFlow](https://github.com/Yagotaguchi/devoverflow_nextjs14)
 
-- 🌱 I’m currently learning **NextJS, AI and Software Development.**
-
-- 💬 Ask me about **SaaS & StartUps.**
-
 - 📫 How to reach me **yagotaguchi@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/yagoruksenas/](https://www.linkedin.com/in/yagoruksenas/)
-
-- ⚡ Fun fact **I love to travel and my favorite places are beaches.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
