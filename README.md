@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yago</h1>
 
-- 🔭 I’m currently working on [DevFlow](https://github.com/Yagotaguchi/devoverflow_nextjs14)
-
+-
 - 📫 How to reach me **yagotaguchi@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
